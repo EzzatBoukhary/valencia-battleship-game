@@ -14,6 +14,6 @@ Made for a C Programming course project at Valencia College for Spring 2022
 * The .bin file gets overwritten every time the user saves an unfinished game.
 
 # Screenshots
-![image](https://github.com/EzzatBoukhary/valencia-battleship-game/assets/50555851/1722f540-0c8f-4356-9574-858b1e5c30d6)
-![image](https://github.com/EzzatBoukhary/valencia-battleship-game/assets/50555851/d2aff81b-e7f1-4ea1-ad1e-bed1d72f06b2)
-![image](https://github.com/EzzatBoukhary/valencia-battleship-game/assets/50555851/4cd8cc00-95ce-455a-bd41-3c4b0972ceed)
+![image](https://github.com/EzzatBoukhary/valencia-battleship-game/blob/main/image1.png)
+![image](https://github.com/EzzatBoukhary/valencia-battleship-game/blob/main/image2.png)
+![image](https://github.com/EzzatBoukhary/valencia-battleship-game/blob/main/image3.png)
